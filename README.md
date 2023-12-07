@@ -1,40 +1,68 @@
 # Leostruka - GitHub
 
-Bem-vindo ao meu perfil! Eu sou Leandro Ostruka, um entusiasta da programação graduando em engenharia de software. Após alguns semestres nas áreas de engenharia elétrica e mecatrônica, descobri minha paixão pela programação, o que me levou a estudar engenharia de software e buscar mais experiência profissional nesse campo.
+<p align="center">
+  Bem-vindo ao meu perfil! Eu sou Leandro Ostruka, um entusiasta da programação graduando em engenharia de software. Após alguns semestres nas áreas de engenharia elétrica e mecatrônica, descobri minha paixão pela programação, o que me levou a estudar engenharia de software e buscar mais experiência profissional nesse campo.
+</p>
 
-## Sobre Mim
+<p align="center">
+  <b>Sobre Mim</b>
+</p>
 
-- **Nome:** Leandro Ostruka
+<p align="center">
+  <b>Nome:</b> Leandro Ostruka
+</p>
 
-## Objetivo
+<p align="center">
+  <b>Gif Matrix-Inspirado:</b><br>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Matrix">
+</p>
 
-Busco entrar na área de desenvolvimento para aprimorar minhas habilidades como programador. Acredito que, ao conhecer melhor as oportunidades disponíveis, poderei escolher uma área específica para me aprofundar e seguir carreira.
+<p align="center">
+  <b>Objetivo</b>
+</p>
 
-## Habilidades
+<p align="center">
+  Busco entrar na área de desenvolvimento para aprimorar minhas habilidades como programador. Acredito que, ao conhecer melhor as oportunidades disponíveis, poderei escolher uma área específica para me aprofundar e seguir carreira.
+</p>
 
-### Linguagens de Programação
+<p align="center">
+  <b>Habilidades</b>
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-%232F5E8E?style=for-the-badge&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/C-%236059A5?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-%234E4187?style=for-the-badge&logo=microsoft&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-%23534693?style=for-the-badge&logo=prolog&logoColor=white)
+<p align="center">
+  <b>Linguagens de Programação</b><br>
+  <img src="https://img.shields.io/badge/SQL-%232F5E8E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/C-%236059A5?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/VBA-%234E4187?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA">
+</p>
 
-### Competências
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Windows Forms-%230078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Forms">
+</p>
 
-- Experiência em atendimento ao cliente
-- Conhecimento em GitHub e Trello
-- Desenvolvimento de Windows Forms
 
-## Projetos Publicados
+<p align="center">
+  <b>Ferramentas e Competências</b><br>
+  - Experiência em atendimento ao cliente<br>
+  - Conhecimento em GitHub e Trello<br>
+  - Desenvolvimento de Windows Forms
+</p>
 
-Aqui está um gráfico que mostra a distribuição percentual das linguagens nos meus repositórios:
+<p align="center">
+  <b>Projetos Publicados</b>
+</p>
 
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact)
+<p align="center">
+  Aqui está um gráfico que mostra a distribuição percentual das linguagens nos meus repositórios:<br>
+  ![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact&hide=html,css&langs_count=8)
+</p>
 
-Sinta-se à vontade para explorar meus projetos e entre em contato se tiver alguma pergunta ou sugestão!
+<p align="center">
+  Sinta-se à vontade para explorar meus projetos e entre em contato se tiver alguma pergunta ou sugestão!
+</p>
