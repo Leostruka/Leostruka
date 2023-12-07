@@ -60,7 +60,7 @@
 
 <p align="center">
   Aqui está um gráfico que mostra a distribuição percentual das linguagens nos meus repositórios:<br>
-  ![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact&hide=html,css&langs_count=8)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact">
 </p>
 
 <p align="center">
