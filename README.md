@@ -59,9 +59,11 @@
 </p>
 
 <p align="center">
-  Aqui está um gráfico que mostra a distribuição percentual das linguagens nos meus repositórios:<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact">
+  My Stats:<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact"> <br>
+  <img src="https://streak-stats.demolab.com/?user=Leostruka&theme=highcontrast&hide_border=true&currStreakNum=d53600&fire=d53600&stroke=feb204&sideNums=ffd22b&sideLabels=feb204">
 </p>
+
 
 <p align="center">
   Sinta-se à vontade para explorar meus projetos e entre em contato se tiver alguma pergunta ou sugestão!
