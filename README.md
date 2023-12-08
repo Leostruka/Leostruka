@@ -50,7 +50,6 @@
   <b>Ferramentas e Competências</b><br>
   - Experiência em atendimento ao cliente<br>
   - Conhecimento em GitHub e Trello<br>
-  - Desenvolvimento de Windows Forms
 </p>
 
 <p align="center">
