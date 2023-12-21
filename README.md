@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Busco entrar na área de desenvolvimento para aprimorar minhas habilidades como programador. Acredito que, ao conhecer melhor as oportunidades disponíveis, poderei escolher uma área específica para me aprofundar e seguir carreira.
+  Busco aprimorar minhas habilidades como programador. Acredito que, experiência e curiosidade são essências para se desenvolver. Por isso é bom aceitar desafios e nunca me esquecer de minha ignorância.
 </p>
 
 <p align="center">
