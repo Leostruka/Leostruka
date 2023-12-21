@@ -1,9 +1,12 @@
 # Leostruka - GitHub
 
 <p align="center">
-  Bem-vindo ao meu perfil! Eu sou Leandro Ostruka, um entusiasta da programação graduando em engenharia de software. Após alguns semestres nas áreas de engenharia elétrica e mecatrônica, descobri minha paixão pela programação, o que me levou a estudar engenharia de software e buscar mais experiência profissional nesse campo.
+  <b>Sobre Mim</b>
 </p>
 
+<p align="center">
+  Bem-vindo ao meu perfil! Eu sou Leandro Ostruka, um entusiasta da programação graduando em engenharia de software. Após alguns semestres nas áreas de engenharia elétrica e mecatrônica, descobri minha paixão pela programação, o que me levou a estudar engenharia de software e buscar mais experiência profissional nesse campo.
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Matrix">
