@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/C-%236059A5?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/VBA-%234E4187?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA">
 </p>
