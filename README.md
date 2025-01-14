@@ -53,7 +53,8 @@
 
 <p align="center">
   My Stats:<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&layout=compact"> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leostruka&show_icons=true&theme=highcontrast&hide_border=true&title_color=d53600&icon_color=ffd22b&text_color=feb204">&emsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leostruka&show_icons=true&theme=highcontrast&hide_border=true&title_color=d53600&icon_color=ffd22b&text_color=feb204"><br>
   <img src="https://streak-stats.demolab.com/?user=Leostruka&theme=highcontrast&hide_border=true&currStreakNum=d53600&fire=d53600&stroke=feb204&sideNums=ffd22b&sideLabels=feb204">
 </p>
 
